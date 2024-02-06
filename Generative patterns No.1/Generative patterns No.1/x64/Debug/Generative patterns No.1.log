@@ -1,0 +1,34 @@
+﻿  Generative patterns No.1.cpp
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\Generative patterns No.1.cpp(14,33): error C2039: "BuildQuery": не является членом "SqlSelectQueryBuilder".
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(4,7): message : см. объявление "SqlSelectQueryBuilder"
+  SqlSelectQueryBuilder.cpp
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(6,40): error C2039: "string": не является членом "std".
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(6,47): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(7,38): error C2039: "string": не является членом "std".
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(7,45): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(8,39): error C2039: "string": не является членом "std".
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(8,46): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(11,7): error C2039: "string": не является членом "std".
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(11,14): error C3646: columnName1: неизвестный спецификатор переопределения
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(11,26): error C2059: синтаксическая ошибка: =
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(11,31): error C2238: непредвиденные лексемы перед ";"
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(12,7): error C2039: "string": не является членом "std".
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(12,14): error C3646: tableName: неизвестный спецификатор переопределения
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(12,24): error C2059: синтаксическая ошибка: =
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(12,28): error C2238: непредвиденные лексемы перед ";"
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.cpp(5,47): error C2511: SqlSelectQueryBuilder &SqlSelectQueryBuilder::AddColumn(std::string): перегруженная функция-член не найдена в "SqlSelectQueryBuilder"
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(4,7): message : см. объявление "SqlSelectQueryBuilder"
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.cpp(7,3): error C2065: columnName1: необъявленный идентификатор
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.cpp(10,10): error C2671: SqlSelectQueryBuilder::AddColumn: статические функции-члены не имеют указателей "this"
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.cpp(14,47): error C2511: SqlSelectQueryBuilder &SqlSelectQueryBuilder::AddFrom(std::string): перегруженная функция-член не найдена в "SqlSelectQueryBuilder"
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(4,7): message : см. объявление "SqlSelectQueryBuilder"
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.cpp(15,2): error C2065: tableName: необъявленный идентификатор
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.cpp(16,10): error C2671: SqlSelectQueryBuilder::AddFrom: статические функции-члены не имеют указателей "this"
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.cpp(20,47): error C2511: SqlSelectQueryBuilder &SqlSelectQueryBuilder::AddWhere(std::string,std::string): перегруженная функция-член не найдена в "SqlSelectQueryBuilder"
+C:\Users\Админ\Desktop\Generative patterns\Generative patterns No.1\Generative patterns No.1\SqlSelectQueryBuilder.h(4,7): message : см. объявление "SqlSelectQueryBuilder"
+  Создание кода...
